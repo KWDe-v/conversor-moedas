@@ -1,9 +1,5 @@
 # 💱 Conversor de Moedas
 
-![Screenshot do projeto](./screenshot.png)
-
-> Substitua a imagem acima por um print da sua aplicação rodando.
-
 ## 📖 Descrição
 
 Um conversor de moedas feito em **Vue.js** (Composition API), usando cotações fixas de exemplo (Real, Dólar e Euro). O resultado é calculado automaticamente conforme o usuário digita, sem precisar de botão. Ótimo para praticar `computed`, `v-model` e manipulação de dados.
@@ -32,10 +28,6 @@ npm run dev
 ```
 
 Depois abra o endereço mostrado no terminal (geralmente `http://localhost:5173`).
-
-## 🌐 Como acessar o projeto publicado
-
-> Adicione aqui o link após publicar na Vercel ou Netlify.
 
 ## 📁 Estrutura básica do projeto
 
